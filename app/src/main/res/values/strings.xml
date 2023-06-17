@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AllBoom</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_artist">Search your favorite artist</string>
+    <string name="settings">Settings</string>
+    <string name="page">Page</string>
+</resources>
